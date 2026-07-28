@@ -27,7 +27,7 @@ My technical background allows me to combine infrastructure knowledge with progr
 
 ### Programming
 
-* C#
+* C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 * .NET / ASP.NET
 * JavaScript
 * Node.js
