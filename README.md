@@ -11,7 +11,12 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
+
 I'm **`Cristian Ale`** an 38 y.o. 
+
+
+I'm a Computer Enthusiast 👨‍💻.
+
 <!--
 **cristianale09/cristianale09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
