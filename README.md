@@ -10,24 +10,63 @@
 
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
+# Hi there! 👋 I'm Cristian Ale
 
+I'm an IT professional with 20 years of experience in technical support, network infrastructure, and Windows server administration. Currently, I'm in my final year of an **Analyst in Systems and Programming** degree, expanding my skills in software development.
 
-I'm **`Cristian Ale`** an 38 y.o. 
+My technical background allows me to combine infrastructure knowledge with programming, giving me a broader understanding of how applications and systems work together.
 
+## 🚀 Currently
 
-I'm a Computer Enthusiast 👨‍💻.
+* 🎓 Final-year student of Analyst in Systems and Programming.
+* 🌱 Learning and improving my skills in **.NET, C#, ASP.NET, Node.js, JavaScript, SQL Server, and MongoDB**.
+* 💻 Building personal and academic projects to strengthen my backend and full-stack development experience.
+* 📚 Continuously learning new technologies related to software development, infrastructure, and automation.
 
-<!--
-**cristianale09/cristianale09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Technical Skills
 
-Here are some ideas to get you started:
+### Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C#
+* .NET / ASP.NET
+* JavaScript
+* Node.js
+* Express.js
+
+### Databases
+
+* SQL Server
+* MongoDB
+* Mongoose
+
+### Front-end
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Infrastructure
+
+* Windows Server
+* Active Directory
+* Group Policy (GPO)
+* DNS / DHCP
+* Networking
+* pfSense
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio
+* Visual Studio Code
+* Postman
+
+## 🎯 Career Goal
+
+I'm looking for opportunities as a **.NET Developer** or **IT Infrastructure / Systems Administrator**, where I can contribute my technical experience while continuing to grow as a software developer.
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: *(add your profile)*
+* 📧 Email: *(add your email)*
