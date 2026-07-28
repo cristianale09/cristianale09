@@ -10,7 +10,7 @@
 
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
-#I'm Cristian Ale 👋
+# I'm Cristian Ale 👋
 
 I'm an IT professional with 20 years of experience in technical support, network infrastructure, and Windows server administration. Currently, I'm in my final year of an **Analyst in Systems and Programming** degree, expanding my skills in software development.
 
