@@ -68,5 +68,5 @@ I'm looking for opportunities as a **.NET Developer** or **IT Infrastructure / S
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: *(add your profile)*
-* 📧 Email: *(add your email)*
+* 💼 LinkedIn: linkedin.com/in/cristian-ale
+* 📧 Email: cristianale09@outlook.com 
